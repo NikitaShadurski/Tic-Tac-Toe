@@ -1,3 +1,5 @@
+#Read the Readme file before playing :)
+#Feel free to watch this video: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 import random
 
 
